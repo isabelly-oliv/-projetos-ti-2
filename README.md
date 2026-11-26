@@ -1,4 +1,4 @@
-# 💻 Sistema Desktop com Banco de Dados (Projeto AV3)
+# 💻 Sistema Desktop com Banco de Dados (Projeto de Avaliação)
 
 Aplicação desktop desenvolvida em **C# (Windows Forms)** durante o curso Técnico em Informática, com foco na integração com banco de dados relacional, navegação entre múltiplas telas e manipulação de registros.
 
